@@ -57,7 +57,10 @@ The pivot table is useful in showing how many plays failed and succeeded based o
 
 ## What can you conclude about the Outcomes based on Goals?
 
-Given the descriptive statistics that we were able to collect, I would recommend that Louise keep her goal below $5,000. Ideally the closer she can get to the IQR ($3,500), the better. There are plays that failed even though their goal was below $5,000. For the successful outcomes, there’s a larger gap between the median and the upper quartile than there is for the median and the lower quartile. The IQR represents the spread of the data points and is a better representation of what the middle ground is. 
+Given the descriptive statistics that we were able to collect, I would recommend that Louise keep her goal below $5,000. However, there are plays that failed even though their goal was below $5,000. If we want to have the highest chance of success, I would reccomend that the goal stays below $1,000.
+
+![this_is_an_image](goalnumbers.png)
+![this_is_an_image](outcomes.png)
 
 ## What are some limitations of this dataset?
 
